@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<lang>
+	<en>
+		<webview2_missing>
+			<title>Error!</title>
+			<message>The program cannot run because WebView2 is missing.</message>
+		</webview2_missing>
+		
+		<cookie>Cookie</cookie>
+		<cookie_ready>Cookies are ready</cookie_ready>
+		<cookie_copy>Copy Cookies</cookie_copy>
+		<copied>Copied.</copied>
+	</en>
+	<ko>
+		<webview2_missing>
+			<title>오류!</title>
+			<message>WebView2가 없어 프로그램을 실행할 수 없습니다.</message>
+		</webview2_missing>
+		
+		<cookie>쿠키</cookie>
+		<cookie_ready>쿠키 준비완료</cookie_ready>
+		<cookie_copy>쿠키 복사</cookie_copy>
+		<copied>복사되었습니다.</copied>
+	</ko>
+</lang>
